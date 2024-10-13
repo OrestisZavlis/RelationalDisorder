@@ -6,3 +6,7 @@ This repository includes code on a model that formalizes (static) personality di
 
 ## Model Architecture
 ![Figure 2 (1)-2](https://github.com/user-attachments/assets/be266719-9923-4af7-aba7-2ad53a8687c7)
+
+
+
+![image](https://github.com/user-attachments/assets/b3ca848b-8195-478a-aa70-0d7d131f77aa)
