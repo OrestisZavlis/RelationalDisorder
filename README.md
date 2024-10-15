@@ -8,8 +8,8 @@ This repository includes code on a model that formalizes (static) personality di
 
 ![image](https://github.com/user-attachments/assets/8b770367-8570-40d8-a83a-7b6b6bd11652)
 
-The figure above outlines a probabilistic graph that defines the structure of the probabilistic model. Essentially, the graph outlines how certain (random) variables cause (_generate_) other (random) variables (with directed arrows indicating causality). To start from the highest to the lowest levels of this hierarchical model, this generative architecture implies that (1) a set of hyperpriors (m1 and m2) generates (2) a set of priors (s1 and s2), which in turn generate (3) a set of observations (o1 and o2). 
+The figure above outlines a probabilistic graph that defines the structure of the probabilistic model. Essentially, the graph outlines how certain (random) variables cause (_generate_) other (random) variables (with directed arrows indicating causality). To start from the highest to the lowest levels of this hierarchical model, this generative architecture implies that (1) a set of hyperpriors (m<sup>1</sup> and m<sup>2</sup>) generates (2) a set of priors (s<sup>1</sup> and s<sup>2</sup>), which in turn generate (3) a set of observations (o<sup>1</sup> and o<sup>2</sup>). 
 
 internal working models of the self and others generate (2) mental states of the self and others, which in turn (3) generate observed behaviours of the self and others. Psychologically, this process of mental inference can be recast as follows: internal working models (which have their roots in temperament and one's social experience) dictate the probability of evoking (or _fantasizing_, or _generating_) particular mental states to be used as _hypotheses_ in order to explain behaviour from oneself or others. 
 
-<sup>subscript</sup>
+subscript</sup>
