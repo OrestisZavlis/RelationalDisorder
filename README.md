@@ -2,7 +2,7 @@
 # A generative model of personality disorder as a relational disorder
 
 ## Introduction
-This repository includes code on a model that formalizes (static) personality disorders as (dynamic) relational disorders, using the computational process of mental inference. The idea that personality disorders can be viewed as mentalizing / object relational disorders has its roots in traditional psychoanalytic theories that viewed personality ... 
+This repository includes code on a model that formalizes (static) personality disorders as (dynamic) relational disorders. The model is based on the computational process of mental inference. The idea that personality disorders can be viewed as mentalizing / object relational disorders has its roots in traditional psychoanalytic theories that viewed personality ... 
 
 ## Mental Inference
 
