@@ -12,4 +12,4 @@ The figure above outlines a probabilistic graph that defines the structure of th
 
 internal working models of the self and others generate (2) mental states of the self and others, which in turn (3) generate observed behaviours of the self and others. Psychologically, this process of mental inference can be recast as follows: internal working models (which have their roots in temperament and one's social experience) dictate the probability of evoking (or _fantasizing_, or _generating_) particular mental states to be used as _hypotheses_ in order to explain behaviour from oneself or others. 
 
-~subscript~
+<sup>subscript</sup>
