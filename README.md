@@ -12,7 +12,9 @@ The probabilistic architecture of the model is outlined in the figure above. Ess
 
 Notably, this process is not static, but dynamic: the mental states and working models get updated over time (at times τ (fast) and t (slow), respectively), reflecting that a person can change their mind on _how stable states are over time_ (i.e., will a person with benevolent intensions remain benevolent at a future time point?) or _how likely it is to encounter particular kinds of people_ (i.e., are people with benevolent intentions rare or common?). In the computational literature, these processes are known as ''learning''; here, interestingly, learning is based on social observations, suggesting that one's mental configurations (models of self / others) are fundamentally reflective of their social experience. 
 
+
+
 <p align="center">
-$P(o)=P(s)P(o│s)+P(¬s)P(o|¬s)$
+$....$
 </p>
 
